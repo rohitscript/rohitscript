@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/rohitscript" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscript?logo=twitter&style=for-the-badge" alt="rohitscript" /></a> </p>
 
-- 🌱 I’m currently learning  **SMART CONTRACT AUDITING** 
+- 🌱 I’m currently learning  **NextJS & Javascript** 
 
-- 💬 Ask me about **Open-source, Javascript, Solidity, Blockchain**
+- 💬 Ask me about **Javascript, Solidity, Blockchain**
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 
