@@ -39,7 +39,7 @@
 [![@rkzd's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
   
   
-   [![Rohit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rkzd)](https://github.com/rkzd/github-readme-activity-graph)
+   [![Rohit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitscript)](https://github.com/rohitscript/github-readme-activity-graph)
 </p>
 
  <h3 align="center">
