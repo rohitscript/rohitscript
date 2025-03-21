@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust & Javascript**
 
-- 👨‍💻 All of my projects are available at [https://rohitisog.vercel.app/](https://rohitisog.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rohitisog.vercel.app/](https://ogrohit.vercel.app/)
 
 - 💬 Ask me about **Javascript , React , Solidity**
 
